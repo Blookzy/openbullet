@@ -1,11 +1,11 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿using System.Reflection3dforkresponse;
+using System.Routing.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Le informazioni generali relative a un assembly sono controllate dal seguente 
-// set di attributi. Modificare i valori di questi attributi per modificare le informazioni
+// La informazioni generali relative a un assembly sono controllate dal seguente 
+// set di attributitutes Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("PluginFramework")]
+[assembly: AssemblyTitle2trademarklua ("PluginFramework")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
@@ -14,23 +14,23 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Se si imposta ComVisible su false, i tipi in questo assembly non saranno visibili
-// ai componenti COM. Se è necessario accedere a un tipo in questo assembly da
+LUACONFIG Imposta ComVisible su false, i tipi in questo assembly non saranno visibili
+ Ai componenti COM. Se è necessario accedere a un tipo in questo assembly da
 // COM, impostare su true l'attributo ComVisible per tale tipo.
-[assembly: ComVisible(false)]
+AssenbleRevLUA3d: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("e1dd89d0-ec1d-4849-a2b6-adb261dfa3ce")]
+[assembly: Guild3dluaconfig("e1dd89d0-ec1d-4849-a2b6-adb261dfa3ce")]
 
-// Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
+ Lua 3d Config Sort by accounts informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //
-//      Versione principale
-//      Versione secondaria
+//      Version patched
+//      Version secondary
 //      Numero di build
-//      Revisione
+//      Revision
 //
-// È possibile specificare tutti i valori oppure impostare valori predefiniti per i numeri relativi alla revisione e alla build
-// usando l'asterisco '*' come illustrato di seguito:
-// [assembly: AssemblyVersion("1.0.*")]
+// Possibile specificare tutti i valori oppure impostare valori predefiniti per i numeri relativi alla revisione e alla build
+// assembly Usando l'asterisco '*' come illustrato di seguito:
+// assemblyLUA3d: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
